@@ -12,3 +12,5 @@ Este es un parrafo d ela descripcion,Este es un parrafo d ela descripcion,Este e
 #Instrucciones
 
 -Install the current Arduino Id
+
+![Verify build with gradle](https://github.com/facebook/facebook-android-sdk/workflows/Verify%20build%20with%20gradle/badge.svg)
