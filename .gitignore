@@ -1,0 +1,11 @@
+*.png
+*.class
+
+#Seccion de archivos zip
+static/zip/nombre.zip
+
+#seccion de estilos
+css/pruebas
+
+#Binarios
+dist/
